@@ -1,3 +1,8 @@
+# Notes
+* Removed need for socketcan dependency in package.json
+* run ´npm install´
+* Do not exeed path lenghts, place project folder near to drive letter. E.g. in C:\data\mcp-can-boot-flash-app
+
 # MCP-CAN-Boot Flash-App
 
 ![MCP-CAN-Boot logo](https://raw.githubusercontent.com/crycode-de/mcp-can-boot/main/doc/mcp-can-boot-256.png)
